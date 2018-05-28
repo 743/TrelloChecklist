@@ -1,3 +1,5 @@
+# Script to fetch pending checklist items
+
 import json
 import requests
 
